@@ -1,0 +1,15 @@
+/home/samera/DIO/Desafio_codigo2/Dio.Series/bin/Debug/net6.0/Dio.Series
+/home/samera/DIO/Desafio_codigo2/Dio.Series/bin/Debug/net6.0/Dio.Series.deps.json
+/home/samera/DIO/Desafio_codigo2/Dio.Series/bin/Debug/net6.0/Dio.Series.runtimeconfig.json
+/home/samera/DIO/Desafio_codigo2/Dio.Series/bin/Debug/net6.0/Dio.Series.dll
+/home/samera/DIO/Desafio_codigo2/Dio.Series/bin/Debug/net6.0/Dio.Series.pdb
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.AssemblyReference.cache
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfoInputs.cache
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/Dio.Series.AssemblyInfo.cs
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/Dio.Series.csproj.CoreCompileInputs.cache
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/Dio.Series.dll
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/refint/Dio.Series.dll
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/Dio.Series.pdb
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/Dio.Series.genruntimeconfig.cache
+/home/samera/DIO/Desafio_codigo2/Dio.Series/obj/Debug/net6.0/ref/Dio.Series.dll
